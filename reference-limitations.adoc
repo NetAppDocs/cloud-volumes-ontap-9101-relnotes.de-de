@@ -20,7 +20,7 @@ Die folgenden Einschränkungen gelten für Cloud Volumes ONTAP bei allen Cloud-P
 
 
 
-== Die Cloud Volumes ONTAP-Bereitstellung darf nicht von der Konsole Ihres Cloud-Providers geändert werden
+== Die Cloud Volumes ONTAP-Implementierung darf nicht über die Konsole Ihres Cloud-Providers geändert werden
 
 Änderungen an der Konfiguration eines Cloud Volumes ONTAP Systems aus der Konsole Ihres Cloud-Providers resultieren in einer nicht unterstützten Konfiguration. Alle Änderungen an den von Cloud Manager erstellten und gemanagten Cloud Volumes ONTAP Ressourcen können sich auf die Systemstabilität auswirken und das Management des Systems durch Cloud Manager vornehmen.
 
